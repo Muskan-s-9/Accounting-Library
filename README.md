@@ -23,9 +23,8 @@
 - Includes setup scripts and templates.
 
 **Key Files:**
-- `Bank_Entry_UI.xlsx`: Template for bank transactions.
-- [`Customize_Ledger_Library.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/B_Setup/B_1_Ledger_Setup/Customize_Ledger_Library.py): Enables customization for organizational ledger entries, such as predefined categories.
-
+- [`Customize_Ledger_Library.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/B_Setup/B_1_Ledger_Setup/Customize_Ledger_Library.py):and adds any new ledgers encountered while passing journal entries
+-  `Output_Ledger_Library.xlsx`: Excel file That contain  all the Ledgers
 ---
 
 ### 3. C_Organization_data
