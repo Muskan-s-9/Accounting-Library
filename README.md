@@ -1,8 +1,8 @@
 Folder: A_Rule_Engine
-  Purpose: Contains Python scripts implementing rule-based logic for accounting processes, such as ledger creation, bank entry processing, and other journal entry-related               computations.
-  Key Files:
-    A_1_Ledger_Library.py
-    A_2_Credit_Note_Journal_Entry.py
+  -Purpose: Contains Python scripts implementing rule-based logic for accounting processes, such as ledger creation, bank entry processing, and other journal entry-related               computations.
+  -Key Files:
+    - A_1_Ledger_Library.py
+    - A_2_Credit_Note_Journal_Entry.py
     A_2_Debit_Notes_Journal_Entry.py
     A_2_Purchase_Journal_Entry.py
     A_2_Sales_Journal_Entry.py
