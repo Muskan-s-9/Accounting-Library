@@ -7,12 +7,14 @@
 - Contains Python scripts implementing rule-based logic for accounting processes.
 
 **Key Files:**
-- `A_1_Ledger_Library.py`.
-- `A_2_Credit_Note_Journal_Entry.py`.
-- `A_2_Debit_Notes_Journal_Entry.py`.
-- `A_2_Purchase_Journal_Entry.py`.
-- `A_2_Sales_Journal_Entry.py`.
-- `A_3_Debit_Credit_Rule.py`.
+- [`A_3_Debit_Credit_Rule.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_3_Debit_Credit_Rule.py): Applies the Debit and Credit Rule to Journal Entries.
+- [`A_1_Ledger_Library.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_1_Ledger_Library.py): Creates ledgers and saves them to CSV files. You can add new ledgers in the configuration dictionary.
+- [`A_2_Credit_Note_Journal_Entry.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_2_Credit_Note_Journal_Entry.py): Processes Credit Note Journal Entries using ledgers and credit note data in CSV format.
+- [`A_2_Debit_Notes_Journal_Entry.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_2_Debit_Notes_Journal_Entry.py): Processes Debit Note Journal Entries using ledgers and debit note data in CSV format.
+- [`A_2_Purchase_Journal_Entry.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_2_Purchase_Journal_Entry.py): Processes Purchase Journal Entries using ledgers and purchase data in CSV format.
+- [`A_2_Sales_Journal_Entry.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/A_Rule_Engine/A_2_Sales_Journal_Entry.py): Processes Sales Journal Entries using ledgers and sales data in CSV format.
+
+     
 
 ---
 
@@ -22,7 +24,7 @@
 
 **Key Files:**
 - `Bank_Entry_UI.xlsx`: Template for bank transactions.
-- `Ledger_Customization.xlsx`: Enables customization for organizational ledger entries, such as predefined categories.
+- [`Customize_Ledger_Library.py`](https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/B_Setup/B_1_Ledger_Setup/Customize_Ledger_Library.py): Enables customization for organizational ledger entries, such as predefined categories.
 
 ---
 
