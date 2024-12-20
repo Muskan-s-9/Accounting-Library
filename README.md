@@ -3,7 +3,7 @@
 ## Folder Structure
 
 ### 1. A_Rule_Engine
-**Purpose:**
+
 - Contains Python scripts implementing rule-based logic for accounting processes.
 
 **Key Files:**
@@ -24,7 +24,7 @@
 ---
 
 ### 2. B_Setup
-**Purpose:**
+
 - Includes setup scripts and templates.
 
 **Key Files:**
@@ -50,7 +50,7 @@
 
 
 ### 3.  D_Process_1_Data_Processing
-**Purpose:**
+
 - Templates and references for processing data related to expenses, income, and capital invoices.
 
 **Key Files:**
@@ -71,7 +71,7 @@
 ---
 
 ### 4. E_Process_2_Accounting
-**Purpose:**
+
 - Contains all the Excel outputs of accounting data
 
   **E_Step_2_Journal_Entry**
@@ -95,7 +95,7 @@
 
 
 ### 3.  J_Organization_Output
-**Purpose:**
+
 - Contains  Balance sheet, Ledgers, PNL , Trail Balcance
 
 **Key Files:**
