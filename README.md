@@ -83,7 +83,7 @@
   
     - `Debit_Notes_Journal_Entry_Output` :https://docs.google.com/spreadsheets/d/1qxD8hp_afhMNPnAP9lnKjl1_Z2TO3kdx/edit?usp=sharing&ouid=102056670822337622463&rtpof=true&sd=true
  
- **E_Step_3_Consolidation**
+  **E_Step_3_Consolidation**
    - [`Merge_all_journal_entry_excel.ipynb`]('https://github.com/Muskan-s-9/Accounting-Library/blob/main/Accounting_Library/E_Process_2_Accounting/E_Step_3_Consolidation/Merge_all_journal_entry_excel.ipynb') : It will take all the Excel files and generate a consolidated Excel file.
      -  https://docs.google.com/spreadsheets/d/1VdYkSqf0eIai1yFuELKtKyOyUn9_f8NY/edit?usp=sharing&ouid=102056670822337622463&rtpof=true&sd=true
     
@@ -94,7 +94,7 @@
 
 
 
-### 3.  J_Organization_Output
+### 5.  J_Organization_Output
 
 - Contains  Balance sheet, Ledgers, PNL , Trail Balcance
 
