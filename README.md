@@ -1,6 +1,5 @@
-# Accounting Library Repository
+# Accounting Library 
 
-## Folder Structure
 
 ### 1. A_Rule_Engine
 
