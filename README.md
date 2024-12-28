@@ -95,7 +95,7 @@
 
 ### 5.  J_Organization_Output
 
-- Contains  Balance sheet, Ledgers, PNL , Trail Balcance
+- Contains  Balance sheet, Ledgers, PNL , Trail Balance
 
 **Key Files:**
 - [`J_1_Balance_Sheet`](https://github.com/Muskan-s-9/Accounting-Library/tree/main/Accounting_Library/J_Organization_Output/J_1_Balance_Sheet):
